@@ -37,6 +37,7 @@
         <module>tubemq-connectors</module>
         <module>tubemq-manager</module>
         <module>tubemq-docker</module>
+        <module>tubemq-cli</module>
     </modules>
 
     <properties>
